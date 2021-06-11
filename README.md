@@ -95,6 +95,6 @@ SimulationName:
 SimulationRegDate:
 SimulationUpdDate:
 ========================================================
-Total cout : 76
+Total count : 76
 
 ```

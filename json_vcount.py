@@ -47,17 +47,6 @@ def printField(ele, prefix):
     #print (prefix, ":" , ele)
 
 
-'''
-    print ( "KEY :" + key)
-    if isinstance(value, (list, tuple)):
-        for item in value: 
-            print ("VALUE(list/tuple) : " + item)
-
-    if isinstance(value, (dict)):
-        for value_key,value_value in value.items(): 
-            print ("VALUE(dict) : " + value_key + " : " +  str(value_value)) 
-'''
-
 
 def main():
 
@@ -109,7 +98,7 @@ def main():
 		i = i +1 
 
 	print("========================================================") 
-	print("Total cout : " +  str(i) ) 
+	print("Total count : " +  str(i) ) 
 
 	
 if __name__ == "__main__":
